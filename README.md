@@ -28,5 +28,3 @@ The VSDSquadron FPGA Mini (FM) board is an affordable, compact tool for prototyp
 ![image](https://github.com/user-attachments/assets/444164c0-e998-4c5f-97dd-715ea4135f22)
 
 (IMAGE SOURCE - DATASHEET)
-
--------------------------------------------------------------------- THE END---------------------------------------------------------------
