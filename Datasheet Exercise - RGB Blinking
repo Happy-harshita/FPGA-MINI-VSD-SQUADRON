@@ -25,12 +25,13 @@ PROCEDURE:-
 cd
 cd VSDSquadron_FM
 cd blink_led
-The commands above allow you to:– Change to the home directory (‘cd‘).– Navigate to the ‘VSDSquadron FM‘ folder, which has a sample project.– Move into the ‘blink led‘ directory, which is the first FPGA project to be tried on VSD Squadron FPGA Mini (FM) board.
+The commands above allow you to:– Change to the home directory (‘cd‘).– Navigate to the ‘VSDSquadron FM‘ folder, which has a sample 
+project.– Move into the ‘blink led‘ directory, which is the first FPGA project to be tried on VSD Squadron FPGA Mini (FM) board.
 
 10. There is a preloaded project in ”blink led” directory. To test the project on VSDSquadron
     FPGA Mini (FM) board, we need to make sure that the board is connected to the Oracle Virtual Machine.
 
-11. Toconfirmiftheboard is connected to the USB, type the ‘lsusb‘ command in the terminal. You should see a line stating ”Future 
+11. Toconfirmiftheboard is connected to the USB, type the ‘lsusb‘ command in the terminal. You should see a line stating "Future 
     Technology Devices International". Run the following command to clean up previous builds.
     - Make clean
     - Make build
