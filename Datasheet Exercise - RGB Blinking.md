@@ -1,6 +1,6 @@
-ASSIGNMENT :- 
+## ASSIGNMENT :- 
 
-PROCEDURE:-
+## PROCEDURE:-
 
 1. Install all the required applications - FPGA mini ZIP Folder, VirtualBox, C++ 2019 redistrubutable, VirtualBox Extension Pack 
    (if required).
@@ -39,7 +39,7 @@ project.– Move into the ‘blink led‘ directory, which is the first FPGA pro
 12. Once the code is successfully flashed, you will see the RGB lights on the FPGA board
     blinking.
 
-RESULT :-
+## RESULT :-
 
 https://github.com/user-attachments/assets/06edc7ef-a624-407c-93d4-d0e5928f8cc5
 
