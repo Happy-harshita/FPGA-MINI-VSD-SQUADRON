@@ -43,7 +43,7 @@ Assign the FPGA's RX (receive) and TX (transmit) pins to the appropriate pins th
 The serial interface is often a UART-to-USB converter.
 Clock:
 Ensure you have a suitable clock signal for your UART module.
-2. FPGA Tool Flow:
+## FPGA Tool Flow:
 
 Synthesis, Place, and Route:
 Use your FPGA development tools (e.g., Xilinx Vivado, Intel Quartus Prime) to synthesize, place, and route your design.
@@ -51,7 +51,7 @@ Bitstream Generation:
 Generate the bitstream file that configures your FPGA.
 Programming the FPGA:
 Program the bitstream onto your FPGA using the appropriate programming cable and software.
-3. Serial Terminal Setup:
+## Serial Terminal Setup:
 
 Connect the FPGA:
 Connect your FPGA's serial TX and RX pins to a UART-to-USB converter.
@@ -71,7 +71,7 @@ Parity: None
 Stop bits: 1
 Disable Local Echo:
 Make sure that local echo is disabled in your serial terminal. If local echo is enabled, the characters you type will be displayed twice. One time from your computer, and a second time from the FPGAs loopback.
-4. Testing the Loopback:
+## Testing the Loopback:
 
 Send Data:
 In the serial terminal, type some characters and press Enter.
