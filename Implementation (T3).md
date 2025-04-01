@@ -59,3 +59,5 @@ https://github.com/user-attachments/assets/06edc7ef-a624-407c-93d4-d0e5928f8cc5
 - If your FPGA is transmitting data, you should see it displayed in the PuTTY terminal window.
 
 - Always refer to the VSDSquadron FM board's documentation and the datasheet for specific instructions and specifications.
+
+- Troubleshooting: If you encounter errors, carefully read the error messages and refer to the documentation or online resources for help.
