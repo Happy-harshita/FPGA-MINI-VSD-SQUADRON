@@ -276,7 +276,7 @@ endmodule
 
 **sum [8:0]:** 9-bit output register to store the sum of data_in_a and data_in_b. It's 9 bits wide because the sum of two 8-bit numbers can require up to 9 bits (e.g., 255 + 255 = 510).
 
-## Sequential Logic (always_ff block):
+### Sequential Logic (always_ff block):
 
 **always_ff @(posedge clk or negedge rst_n) begin ... end:** This is a synchronous always block, meaning its operations are synchronized with the rising edge of the clock signal 
 
