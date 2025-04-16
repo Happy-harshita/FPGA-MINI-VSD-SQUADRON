@@ -36,6 +36,8 @@ https://github.com/user-attachments/assets/d0b3a001-761c-4416-a651-fb08b2fa8117
 
 https://drive.google.com/file/d/19UZk9RPQx8K7Z9zq9ygIWfpKYM0g104S/view?usp=drivesdk
 
+https://drive.google.com/file/d/1PgqRikCqIT3FDYsFS_nosrnmGse7Fo47/view?usp=drivesdk
+
 The above link takes you to a video that explains about the real time sensor aquisition and the transmission system.
 
 (VID SRC - SELF)
