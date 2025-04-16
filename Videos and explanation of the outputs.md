@@ -31,3 +31,11 @@ https://github.com/user-attachments/assets/08fd0054-efe2-48f2-a3e1-cfcd395eaa0d
 https://github.com/user-attachments/assets/d0b3a001-761c-4416-a651-fb08b2fa8117
 
 (VID SRC -  SELF)
+
+## REAL TIME SENSOR AQUISITION AND TRANSMISSION SYSTEM.
+
+https://drive.google.com/file/d/19UZk9RPQx8K7Z9zq9ygIWfpKYM0g104S/view?usp=drivesdk
+
+The above link takes you to a video that explains about the real time sensor aquisition and the transmission system.
+
+(VID SRC - SELF)
